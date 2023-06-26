@@ -1,7 +1,12 @@
-# aplikasi_cuaca
+# Aplikasi Cuaca Sederhana
 
-Aplikasi Cuaca dengan framework Flutter ,-[API dari openweathermap](https://openweathermap.org/)
-![Hasil Screenshot](Screenshot (2).png)
+Aplikasi Cuaca dengan framework Flutter
+
+-[API dari openweathermap](https://openweathermap.org/)
+
+#Screenshot
+
+-[Hasil Screenshot](./screenshot/hasil.png)
 
 ## Getting Started
 
