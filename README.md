@@ -6,7 +6,7 @@ Aplikasi Cuaca dengan framework Flutter
 
 #Screenshot
 
--[Hasil Screenshot](./screenshot/hasil.png)
+![Hasil Screenshot](./screenshot/hasil.png)
 
 ## Getting Started
 
